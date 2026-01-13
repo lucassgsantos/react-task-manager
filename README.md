@@ -14,17 +14,8 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-autor">Autor</a>
 </p>
-
-<br>
-
-## 🔖 Layout
-
-<div align="center">
-  <img src="https://placehold.co/800x400/1e293b/FFF?text=Preview+do+Projeto+Aqui" alt="Preview do Projeto" width="100%" />
-</div>
 
 <br>
 
@@ -35,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e conceitos:
 - **[React.js](https://reactjs.org/):** Construção da interface baseada em componentes.
 - **React Hooks:**
   - `useState`: Para gerenciamento de estado das tarefas e inputs.
-  - `useEffect`: Para sincronização dos dados com o LocalStorage (efeito colateral).
+  - `useEffect`: Para sincronização dos dados com o LocalStorage.
 - **Vite:** Ferramenta de build rápida e otimizada.
 - **CSS3 Moderno:** Uso de variáveis, Flexbox e transições suaves.
 - **LocalStorage API:** Persistência de dados no navegador do usuário.
